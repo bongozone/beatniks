@@ -1,0 +1,4 @@
+jon:
+  github-login: WIZARDISHUNGRY
+  unix-groups: [wheel]
+  unix-login-class: staff 

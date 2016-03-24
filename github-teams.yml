@@ -1,0 +1,9 @@
+bongozone:
+  gurus:
+    unix-groups: [operator]
+    unix-login-class: staff
+  poets:
+    unix-groups: [staff]
+    unix-login-class: staff
+  beatniks:
+    unix-groups: [users]
