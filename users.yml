@@ -1,4 +1,7 @@
 jon:
-  github-login: WIZARDISHUNGRY
-  unix-groups: [wheel]
-  unix-login-class: staff 
+  github:
+    login: WIZARDISHUNGRY
+  unix:
+    groups: [wheel, operator, staff, users]
+    class: staff
+    comment: Jon Williams
