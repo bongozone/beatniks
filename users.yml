@@ -4,3 +4,8 @@ jon:
   unix:
     groups: [wheel]
     comment: Jon Williams
+vb:
+  github:
+    login: enemyairship
+  unix:
+    comment: Victor Brockenborough
