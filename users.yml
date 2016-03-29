@@ -2,6 +2,5 @@ jon:
   github:
     login: WIZARDISHUNGRY
   unix:
-    groups: [wheel, operator, staff, users]
-    class: staff
+    groups: [wheel]
     comment: Jon Williams

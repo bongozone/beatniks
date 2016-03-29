@@ -1,0 +1,2 @@
+Match User *,!root
+  AuthorizedKeysFile /etc/ssh/authorized_keys/%u
