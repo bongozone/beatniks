@@ -9,3 +9,8 @@ vb:
     login: enemyairship
   unix:
     comment: Victor Brockenborough
+oliver:
+  github:
+    login: mutability
+  unix:
+    comment: Oliver Jowett
