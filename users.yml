@@ -19,7 +19,7 @@ bmhkim:
     login: bmhkim
   unix:
     comment: Brian Kim
-  mrk:
-    github: mrk
-  unix:
-    comment: Mark Triant
+mrk:
+  github: mrk
+unix:
+  comment: Mark Triant
